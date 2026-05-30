@@ -4,15 +4,14 @@ body {
     align-items: center;
 }
 
+/* .input, .output {
+    font-family: 'Times New Roman', sans-serif;
+    width: 100px;
+    height: 17px;
+} */
+
 .center {
     display: flex;
     flex-direction: column;
     gap: 10px;
-}
-
-.output {
-    padding-left: 2px;
-    padding-right: 2px;
-    border: 1px solid #e7e7e7;
-    border-radius: 5px;
 }
